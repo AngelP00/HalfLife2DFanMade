@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo recrear la experiencia del juego Half-Life en 
 
 ## Videos
 
-[![Gameplay Trailer](enlace_a_thumbnail_del_video.jpg)](enlace_al_video_completo)
+[![Gameplay Trailer](enlace_a_thumbnail_del_video.jpg)](https://youtu.be/gocxfVTZM2g?si=CnxcjL17nR9A4Xtl)
 
 ## Capturas de Pantalla
 
