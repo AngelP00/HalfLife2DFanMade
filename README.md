@@ -36,7 +36,3 @@ Este proyecto tiene como objetivo recrear la experiencia del juego Half-Life en 
 ## Licencia
 
 Este proyecto está bajo la Licencia [MIT](LICENSE.md) - ver el archivo LICENSE.md para más detalles.
-
----
-
-**Nota:** Este README es un ejemplo. Asegúrate de personalizarlo según las necesidades y características específicas de tu proyecto.
